@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  BenzinTakip
+
+  Created by CAN AKGUN on 23.02.2025.
+  
+*/
+"Araç Tipi" = "Vehicle Type";
+"Aracınız akaryakıtlı mı yoksa elektrikli mi?" = "Does your car run on gas or electricity?";
+"Akaryakıtlı" = "Gas";
+"Elektrikli" = "Electricity";
+"kWs" = "kWh";
+"Dolu" = "Full";
+"Ocak" = "Jan";
+"Şubat" = "Feb";
+"Mart" = "Mar";
+"Nisan" = "Apr";
+"Mayıs" = "May";
+"Haziran" = "Jun";
+"Temmuz" = "Jul";
+"Ağustos" = "Aug";
+"Eylül" = "Sep";
+"Ekim" = "Oct";
+"Kasım" = "Nov";
+"Aralık" = "Dec";
+" km'de " = " km with ";
+" mi'de " = " mi with ";
+"Hata" = "Error";
+"Lütfen alımlarınızı ekleyin." = "Please add your refills.";
+"Lütfen tüm alanları doğru bir şekilde doldurun." = "Please fill in all fields correctly.";
+"Ödenen ücret: " = "Price paid: ";
+"Alınan yakıt: " = "Fuel purchased: ";
+"Mesafe: " = "Distance: ";
+"günde" = "days";
+"alım bulundu." = "refills found.";

@@ -1,0 +1,132 @@
+
+/* Class = "UIButton"; normalTitle = "Kaydet"; ObjectID = "0jn-so-qaJ"; */
+"0jn-so-qaJ.normalTitle" = "Kaydet";
+
+/* Class = "UIBarButtonItem"; title = "Alımlar"; ObjectID = "2hC-DF-Ds2"; */
+"2hC-DF-Ds2.title" = "Alımlar";
+
+/* Class = "UILabel"; text = "Son Tarih"; ObjectID = "2hU-PW-K6e"; */
+"2hU-PW-K6e.text" = "Son Tarih";
+
+/* Class = "UILabel"; text = "13.2 L / 100 km"; ObjectID = "6PN-DY-nr8"; */
+"6PN-DY-nr8.text" = "13.2 L / 100 km";
+
+/* Class = "UILabel"; text = "Araç Kilometresi"; ObjectID = "6yI-dU-n4d"; */
+"6yI-dU-n4d.text" = "Araç Kilometresi";
+
+/* Class = "UILabel"; text = "Tarih"; ObjectID = "8PV-HO-LO2"; */
+"8PV-HO-LO2.text" = "Tarih";
+
+/* Class = "UIButton"; normalTitle = "Rapor"; ObjectID = "CKx-Nm-RE6"; */
+"CKx-Nm-RE6.normalTitle" = "Rapor";
+
+/* Class = "UILabel"; text = "İlk Tarih"; ObjectID = "F5u-zd-sts"; */
+"F5u-zd-sts.text" = "İlk Tarih";
+
+/* Class = "UILabel"; text = "Dolu"; ObjectID = "GEd-rO-DDD"; */
+"GEd-rO-DDD.text" = "Dolu";
+
+/* Class = "UILabel"; text = "Alınan yakıt: 1000 litre"; ObjectID = "HyM-H4-llu"; */
+"HyM-H4-llu.text" = "Alınan yakıt: 1000 litre";
+
+/* Class = "UILabel"; text = "3.2 ₺ / km"; ObjectID = "JIa-8z-LAW"; */
+"JIa-8z-LAW.text" = "3.2 ₺ / km";
+
+/* Class = "UINavigationItem"; title = "Alım"; ObjectID = "KEi-OU-zfO"; */
+"KEi-OU-zfO.title" = "Alım";
+
+/* Class = "UILabel"; text = "₺"; ObjectID = "Kze-hP-bqc"; */
+"Kze-hP-bqc.text" = "₺";
+
+/* Class = "UILabel"; text = "X alım bulundu."; ObjectID = "LHN-lA-ZI0"; */
+"LHN-lA-ZI0.text" = "X alım bulundu.";
+
+/* Class = "UILabel"; text = "₺"; ObjectID = "NdW-lW-EVT"; */
+"NdW-lW-EVT.text" = "₺";
+
+/* Class = "UINavigationItem"; title = "Rapor Oluştur"; ObjectID = "PZa-MZ-2oc"; */
+"PZa-MZ-2oc.title" = "Rapor Oluştur";
+
+/* Class = "UILabel"; text = "39 L"; ObjectID = "QgZ-cO-Jn3"; */
+"QgZ-cO-Jn3.text" = "39 L";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "Ue7-7j-FA9"; */
+"Ue7-7j-FA9.text" = "L";
+
+/* Class = "UILabel"; text = "Alınan Miktar"; ObjectID = "YFt-3o-KIp"; */
+"YFt-3o-KIp.text" = "Alınan Miktar";
+
+/* Class = "UILabel"; text = "Ödenen Fiyat"; ObjectID = "YVm-O8-VPZ"; */
+"YVm-O8-VPZ.text" = "Ödenen Fiyat";
+
+/* Class = "UILabel"; text = "Tarih"; ObjectID = "YXK-oG-hZO"; */
+"YXK-oG-hZO.text" = "Tarih";
+
+/* Class = "UINavigationItem"; title = "Alım Ekle"; ObjectID = "YXd-lV-Rfp"; */
+"YXd-lV-Rfp.title" = "Alım Ekle";
+
+/* Class = "UILabel"; text = "Araç Kilometresi"; ObjectID = "Ytm-hj-Lwu"; */
+"Ytm-hj-Lwu.text" = "Araç Kilometresi";
+
+/* Class = "UILabel"; text = "1602 ₺"; ObjectID = "ZmH-Dy-l3Z"; */
+"ZmH-Dy-l3Z.text" = "1602 ₺";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "avu-bn-FTA"; */
+"avu-bn-FTA.text" = "Label";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "cJ2-sB-gkK"; */
+"cJ2-sB-gkK.text" = "km";
+
+/* Class = "UILabel"; text = "Alınan Litre"; ObjectID = "cOT-0L-Lcr"; */
+"cOT-0L-Lcr.text" = "Alınan Litre";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "fI8-fL-8XG"; */
+"fI8-fL-8XG.text" = "km";
+
+/* Class = "UILabel"; text = "km"; ObjectID = "fJe-oD-05J"; */
+"fJe-oD-05J.text" = "km";
+
+/* Class = "UILabel"; text = "Ödenen ücret: 8500 ₺"; ObjectID = "h6f-Dn-c59"; */
+"h6f-Dn-c59.text" = "Ödenen ücret: 8500 ₺";
+
+/* Class = "UILabel"; text = "Tam Dolum"; ObjectID = "hhF-x5-ZLV"; */
+"hhF-x5-ZLV.text" = "Tam Dolum";
+
+/* Class = "UIButton"; normalTitle = "Ekle"; ObjectID = "kKK-O7-s70"; */
+"kKK-O7-s70.normalTitle" = "Ekle";
+
+/* Class = "UIButton"; normalTitle = "Sil"; ObjectID = "mZY-D4-7s3"; */
+"mZY-D4-7s3.normalTitle" = "Sil";
+
+/* Class = "UILabel"; text = "Tarih"; ObjectID = "mrK-Bg-hrf"; */
+"mrK-Bg-hrf.text" = "Tarih";
+
+/* Class = "UINavigationItem"; title = "Yakıt Alımları"; ObjectID = "nDB-dn-D06"; */
+"nDB-dn-D06.title" = "Yakıt Alımları";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "oDn-aO-cEp"; */
+"oDn-aO-cEp.text" = "L";
+
+/* Class = "UILabel"; text = "Mesafe: 300 km"; ObjectID = "obg-wb-zbo"; */
+"obg-wb-zbo.text" = "Mesafe: 300 km";
+
+/* Class = "UILabel"; text = "Tam Dolum"; ObjectID = "pi4-fc-of7"; */
+"pi4-fc-of7.text" = "Tam Dolum";
+
+/* Class = "UILabel"; text = "₺"; ObjectID = "pkN-Jl-8JR"; */
+"pkN-Jl-8JR.text" = "₺";
+
+/* Class = "UILabel"; text = "Merhaba"; ObjectID = "qcQ-h6-EUE"; */
+"qcQ-h6-EUE.text" = "Merhaba";
+
+/* Class = "UILabel"; text = "10990 km"; ObjectID = "sPf-El-ZiA"; */
+"sPf-El-ZiA.text" = "10990 km";
+
+/* Class = "UILabel"; text = "10 Aralık"; ObjectID = "t88-dC-PgS"; */
+"t88-dC-PgS.text" = "10 Aralık";
+
+/* Class = "UILabel"; text = "161 günde"; ObjectID = "tGJ-gX-rgZ"; */
+"tGJ-gX-rgZ.text" = "161 günde";
+
+/* Class = "UILabel"; text = "Ödenen Fiyat"; ObjectID = "yQb-fE-df3"; */
+"yQb-fE-df3.text" = "Ödenen Fiyat";
